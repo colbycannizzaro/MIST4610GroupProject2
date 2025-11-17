@@ -27,7 +27,7 @@ Understanding the relationship between borough and crime severity is important b
 <img width="356" height="533" alt="image" src="https://github.com/user-attachments/assets/64507411-23a0-44f2-abdf-7405959978af" />
 
 
-Our first graph illustrates the count of drug violation incidents that occur within Boston on different days of the week. We noticed that unlike most crimes, drug violations occur more often on weekdays. Saturday and Sunday report the lowest amount of drug violation incidents. We continued to analyze this same data in our next visualization. 
+Our first graph illustrates the breakdown of each borough's crime rate by crime seveerity. The Bronx had the highest crime rate and highest number of felonies, while Staten Island had the lowest crime rate, and Queens had the lowest number of felonies. 
 
 <img width="1680" alt="Screen Shot 2023-04-27 at 6 57 29 PM" src="https://user-images.githubusercontent.com/128402101/235008185-d248e12e-49bf-4666-a8d2-fa6aaeb646b9.png">
 
