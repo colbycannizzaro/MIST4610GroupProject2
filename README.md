@@ -41,11 +41,12 @@ Importance:
 
 Knowing the age group that commits felony assaults the most can let NYPD determine solutions such as education programs to reduce instances of assault. This could reduce the amount of arrests for this crime, which is the offense that is committed most across the 5 boroughs.
 
-<img width="1680" alt="Screen Shot 2023-04-27 at 6 57 42 PM" src="https://user-images.githubusercontent.com/128402101/235008200-aa0fd1c7-8407-4eec-8faf-7e8458dc66f3.png">
+<img width="528" height="394" alt="image" src="https://github.com/user-attachments/assets/42782d3c-dfdf-40f7-a484-2f6a5484d81b" />
 
 In analyzing the count of drug violations by district and hour of day, we found that there is a peak in the trend line of most districts between the 14th and 22nd hour of the 24 hour period. This indicates that across virtually all districts, drug offenses spike between 2:00 pm and 10:00 pm, and the district with the most drug offenses during this time is district A1. 
 
-<img width="1680" alt="Screen Shot 2023-04-27 at 6 57 50 PM" src="https://user-images.githubusercontent.com/128402101/235008216-fd327af8-4b38-4e01-8d4d-7dca8255246f.png">
+<img width="378" height="400" alt="image" src="https://github.com/user-attachments/assets/1f3dd62e-fabf-4752-b7a1-97ac4b640326" />
+
 
 After delving deeper into this finding, we found that of the streets in district A1 between the times of 2:00 pm and 10:00 pm, the street with the most drug violations is Boylston Street- with Washington, Tremont, and Beach streets trailing behind it. Thus, an appropriate course of action would be to increase police presence on Boylson St, Tremont St, and Beach St between 2:00 pm and 10:00 pm These findings are important and useful in that they can help law enforcement narrow down in which areas and during what times they should patrol more often or dispatch more units to, to help eradicate drug-related crime. Without this analysis, law enforcement may be wasting resources by patrolling the wrong areas or patrolling areas during times drug offenses are not even likely to occur. Utilization of these findings would improve the efficiency and effectiveness of law enforcement.
 
