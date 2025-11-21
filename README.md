@@ -64,9 +64,9 @@ For our second graph, we decied to magnify the age group 25-44 because it had th
 
 As part of the analysis, we made a couple of adjustments to help the data tell a clearer story. We added each borough’s population so we weren’t just comparing raw arrest numbers without context. From there, we calculated a new variable, the crime rate per 1,000 residents, by dividing the number of felony assault arrests by the population and multiplying by 1,000. This gave us a fair way to compare boroughs of different sizes and see where felony assaults were happening at a higher rate relative to the number of people living there. These steps helped us understand the data more accurately and made the comparisons between boroughs much more meaningful.
 
-## Analaysis
+## Analysis
 This dataset details all NYPD arrests from January 1 to November 1, 2025, including borough, offense severity, and demographics. Our analysis found that the Bronx has the highest felony rate per capita, while Queens and Staten Island are the safest overall. For felony assaults, Brooklyn recorded the highest total, driven primarily by the 25–44 age group. These findings help identify where crime is most concentrated and guide resource allocation and forecasting for public safety.
 
 ## Tableau packaged workbook
 
-The packaged workbook containing the visualizations shown above is attached to this repository.
+Our packaged workbook with the above visualizations is attatched in this repository.
