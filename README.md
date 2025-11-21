@@ -31,7 +31,13 @@ Understanding the relationship between borough and crime severity is important b
 
 
 
-Our first graph illustrates the breakdown of each borough's crime rate by crime seveerity. The Bronx had the highest crime rate and highest number of felonies, while Staten Island had the lowest crime rate, and Queens had the lowest number of felonies. 
+Our first graph illustrates the breakdown of each borough's crime rate by crime seveerity. 
+
+### Insights Derived
+1. Misdemeanors make up the majority of arrests in every borough.
+2. If you were the NYPD Police Commissioner, you should allocate most of your resources to the Bronx.
+3. Brooklyn and Manhattan have a similar total crime rate, but for different reasons.
+4. If you wanted to move to the safest part of New York City, you should move to either Staten Island or Queens.
 
 ## Question 2:
 
@@ -48,7 +54,10 @@ In analyzing the count of drug violations by district and hour of day, we found 
 <img width="378" height="400" alt="image" src="https://github.com/user-attachments/assets/1f3dd62e-fabf-4752-b7a1-97ac4b640326" />
 
 
-After delving deeper into this finding, we found that of the streets in district A1 between the times of 2:00 pm and 10:00 pm, the street with the most drug violations is Boylston Street- with Washington, Tremont, and Beach streets trailing behind it. Thus, an appropriate course of action would be to increase police presence on Boylson St, Tremont St, and Beach St between 2:00 pm and 10:00 pm These findings are important and useful in that they can help law enforcement narrow down in which areas and during what times they should patrol more often or dispatch more units to, to help eradicate drug-related crime. Without this analysis, law enforcement may be wasting resources by patrolling the wrong areas or patrolling areas during times drug offenses are not even likely to occur. Utilization of these findings would improve the efficiency and effectiveness of law enforcement.
+## Insights Derived: 
+1. Increase police staffing in the urban regions of Brooklyn to reduce the instances of assaults committed by people ages 25-44.
+2. The R-squared indicates  this model can be used to predict number of felony assaults in  the remaining months of the year.  Enable proactive planning instead of direct approaches.
+
 
 ## Manupulations applied to the data set for analysis:
 
