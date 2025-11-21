@@ -49,10 +49,11 @@ Knowing the age group that commits felony assaults the most can let NYPD determi
 
 <img width="528" height="394" alt="image" src="https://github.com/user-attachments/assets/42782d3c-dfdf-40f7-a484-2f6a5484d81b" />
 
-In analyzing the count of drug violations by district and hour of day, we found that there is a peak in the trend line of most districts between the 14th and 22nd hour of the 24 hour period. This indicates that across virtually all districts, drug offenses spike between 2:00 pm and 10:00 pm, and the district with the most drug offenses during this time is district A1. 
+For the first graph, we visualized the data for several age groups, and we can see the total crime rates per borough. 
 
-<img width="378" height="400" alt="image" src="https://github.com/user-attachments/assets/1f3dd62e-fabf-4752-b7a1-97ac4b640326" />
+<img width="611" height="431" alt="image" src="https://github.com/user-attachments/assets/3b896db0-8499-4c60-be4c-e39bf3a552ae" />
 
+For our second graph, we decied to magnify the age group 25-44 because it had the highest total crime rate for felony assault. We drew conclusions from this analysis to support our insights
 
 ## Insights Derived: 
 1. Increase police staffing in the urban regions of Brooklyn to reduce the instances of assaults committed by people ages 25-44.
